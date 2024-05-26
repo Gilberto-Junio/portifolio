@@ -28,7 +28,7 @@ function Header() {
                     Contato
                 </a>
             </div>
-            <div className="hidden sm:flex items-center space-x-10">
+            <div className=" items-center space-x-10">
                 <ThemeToggle />
             </div>
             <div className="flex sm:hidden items-center space-x-10">
