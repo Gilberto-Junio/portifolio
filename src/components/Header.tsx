@@ -47,7 +47,7 @@ function Header() {
                 <ThemeToggle />
             </div>
             <div className="flex sm:hidden items-center justify-end space-x-10 w-12">
-                <FaBars className="text-2xl text-red-500 dark:hover:text-red-400 hover:scale-105 transition-all hover:cursor-pointer" onClick={() => setShowMenu(!showMenu)}/>
+                <FaBars className="text-2xl text-red-500 dark:text-red-400 hover:scale-105 transition-all hover:cursor-pointer" onClick={() => setShowMenu(!showMenu)}/>
             </div>
         </div>
         {showMenu && 
