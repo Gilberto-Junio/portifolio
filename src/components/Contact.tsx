@@ -10,7 +10,7 @@ function Contact() {
         </p>
         <div className="flex flex-row flex-wrap justify-between">
             <a 
-                href="https://wa.me/5511968208871?text=Olá%20Gilberto%" 
+                href="https://wa.me/5511968208871?text=Olá%20Gilberto" 
                 className="flex flex-row m-5 text-xl items-center space-x-3 hover:text-red-500 dark:hover:text-red-400 hover:scale-105 transition-all"
                 target="_blank"
             >
