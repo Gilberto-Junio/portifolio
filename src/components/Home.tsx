@@ -15,7 +15,7 @@ function Home() {
             <p className="text-2xl pt-5 max-w-[80%]">
                 Transformando ideias em experiências digitais, uma linha de código por vez.            
             </p>
-            <div className="flex items-center justify-center sm:justify-start space-x-3 py-7">
+            <div className="flex items-center justify-center sm:justify-start space-x-8 sm:space-x-3 py-7">
                 <a href="https://www.linkedin.com/in/gilberto-junio-11bb8b15b/" target="_blank" className="text-4xl hover:text-red-500 dark:hover:text-red-400 hover:scale-110 transition-all">
                     <FaLinkedin/>
                 </a>
