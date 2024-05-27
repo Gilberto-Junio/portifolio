@@ -22,7 +22,7 @@ function Home() {
                 <a href="https://github.com/Gilberto-Junio" target="_blank" className="text-4xl hover:text-red-500 dark:hover:text-red-400 hover:scale-110 transition-all">
                     <FaGithub/>
                 </a>
-                <a href="https://web.whatsapp.com/send?phone=5511968208871" target="_blank" className="text-4xl hover:text-red-500 dark:hover:text-red-400 hover:scale-110 transition-all">
+                <a href="https://wa.me/5511968208871?text=Olá%20Gilberto%" target="_blank" className="text-4xl hover:text-red-500 dark:hover:text-red-400 hover:scale-110 transition-all">
                     <FaWhatsapp/>
                 </a>
                 <a href="mailto:gilbertojjack@hotmail.com" target="_blank" className="text-4xl hover:text-red-500 dark:hover:text-red-400 hover:scale-110 transition-all">
