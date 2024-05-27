@@ -18,7 +18,7 @@ function calcXp(date:number) {
 function About() {
   return (
     <div id="aboutcontent" className="flex flex-col w-full items-center justify-between px-8 xl:px-14 py-7 bg-gray-300 dark:bg-gray-800 sm:rounded-md transition-all">
-        <p className="text-2xl text-red-400 font-bold mb-5">
+        <p className="text-2xl text-red-500 dark:text-red-400 font-bold mb-5">
             Sobre mim
         </p>
         <div className="flex flex-row justify-between">
