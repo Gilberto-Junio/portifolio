@@ -17,7 +17,7 @@ const ButtonContainer = styled.span<ButtonContainerProps>`
   cursor: pointer;
   animation: fadeIn 0.3s;
   opacity: 0.5;
-  background: #f87171;
+  background: #ef4444;
   border-radius: 4px;
   transition: opacity 0.4s, color ease-in-out 0.2s, background ease-in-out 0.2s;
   display: ${({ isScrollButtonVisible }) =>

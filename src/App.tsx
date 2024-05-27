@@ -10,7 +10,7 @@ function App() {
 
   return (
     <ThemeProvider defaultTheme="system" storageKey="vite-ui-theme">
-      <div className="flex flex-col xl:px-60 xl:py-16 space-y-9 items-center w-full min-h-screen bg-gray-200 dark:bg-gray-900 transition-all">
+      <div className="flex flex-col xl:px-60 xl:py-16 space-y-9 items-center w-full min-h-screen text-gray-700 dark:text-white bg-gray-200 dark:bg-gray-900 transition-all">
         <Header />
         <Home />
         <About />
